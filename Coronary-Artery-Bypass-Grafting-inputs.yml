@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-coronary-artery-bypass-grafting---primary.py
+inputModule3:
+  class: File
+  path: python/coronary-artery-bypass-grafting-allograft---primary.py
+inputModule4:
+  class: File
+  path: python/coronary-artery-bypass-grafting-specified---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-artery-bypass-grafting-connection---primary.py
+inputModule6:
+  class: File
+  path: python/single-coronary-artery-bypass-grafting---primary.py
+inputModule7:
+  class: File
+  path: python/coronary-artery-bypass-grafting-autograft---primary.py
+inputModule8:
+  class: File
+  path: python/coronary-artery-bypass-grafting-operation---primary.py
+inputModule9:
+  class: File
+  path: python/prosthetic-coronary-artery-bypass-grafting---primary.py
+inputModule10:
+  class: File
+  path: python/coronary-artery-bypass-grafting---primary.py
+inputModule11:
+  class: File
+  path: python/coronary-artery-bypass-grafting-revision---primary.py
+inputModule12:
+  class: File
+  path: python/coronary-artery-bypass-grafting-anastomosis---primary.py
+inputModule13:
+  class: File
+  path: python/coronary-artery-bypass-grafting-mammary---primary.py
+inputModule14:
+  class: File
+  path: python/coronary-artery-bypass-grafting-three---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
